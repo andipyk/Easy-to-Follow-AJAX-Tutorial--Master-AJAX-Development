@@ -1,0 +1,25 @@
+#What is Ajax
+
+Asynchronous Javascript & XML
+Set of Web Technologies
+Send & Receive data asynchronously
+Doest interfere with current web page
+JSON has replace XML for the most part
+
+
+#XmlHttpRequest (XHR) Object
+
+API in the form of an ObjectProvided by browser's JS environment
+Method transfer data between client/server
+Can be used with other protocols than XmlHttpRequestCan work with data other than XML  (JSON, plain text)
+
+#Libraries & Other Methods
+
+Jquery
+Axios 
+Superagent
+Fetch API
+Prototype
+Node HTTP
+
+https://www.youtube.com/watch?v=82hnvUYY6QA
